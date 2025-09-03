@@ -1,7 +1,11 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="MyPic.jpg" alt="Jayanth Banner" />
+  <img src="MyPic.jpg" alt="Jayanth Profile"
+       width="250"
+       style="border-radius: 50%; border: 4px solid #00bfff; box-shadow: 0px 8px 20px rgba(0, 191, 255, 0.6);" />
 </p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7F7&width=435&lines=Software+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </p>
